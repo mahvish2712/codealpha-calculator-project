@@ -10,3 +10,4 @@
 > Real-time Calculations: The primary functionality is handled by JavaScript, which enables real-time calculations while users work with the calculator. Results and user inputs are promptly updated on the display.
 
 > Basic error handling to handle invalid actions is included in error handling.
+![Screenshot (25)](https://github.com/user-attachments/assets/a2650fa8-c2e7-4eca-95d2-26ffc4131e41)
